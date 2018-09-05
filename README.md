@@ -1,5 +1,5 @@
 # AFL_test
-A simple implementation of fuzzing to learn/test AFL as explained in http://spencerwuwu-blog.logdown.com/posts/1366733-a-simple-guide-of-afl-fuzzer
+A simple implementation of fuzzing to learn using AFL fuzzer as explained in http://spencerwuwu-blog.logdown.com/posts/1366733-a-simple-guide-of-afl-fuzzer
 
 ## Overview:
 The code takes strings as input and will print the same as output. But when the string "deadbeef" is given as an input, the code crashes. 
