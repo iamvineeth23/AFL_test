@@ -17,7 +17,7 @@ OS X crash reporter triggers when the test case crashes, and generating the cras
 The fuzzing process window is shown in the image below. The crash for the input "deadbeef" is found and hence the ```uniq crashes ``` value is 1.
 
 <p align="center">
-  <img width="460" height="300" src="https://user-images.githubusercontent.com/33487736/45076960-2982ab80-b0ec-11e8-94e5-d938c7c3d79f.png">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/33487736/45077159-bb8ab400-b0ec-11e8-800e-591c296a6057.png">
 </p>
 
 <p align="center">
